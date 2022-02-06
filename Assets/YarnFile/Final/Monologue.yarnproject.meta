@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7abcf9422e65d4749bd0927d52490325
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 053561912b1654d80a424bb0696a74ae, type: 3}
+  sourceScripts:
+  - {fileID: 6391573757903218779, guid: 126afec2940664cb5b84e6742b9452e7, type: 3}
+  - {fileID: 6391573757903218779, guid: 6a8c7349845744f089ccea48103f5cf2, type: 3}
+  - {fileID: 6391573757903218779, guid: dbecb8d0e9a78436db115b6c61e3d48e, type: 3}
+  compileErrors: []
+  serializedDeclarations: []
+  defaultLanguage: en-US
+  languagesToSourceAssets: []
+  useAddressableAssets: 0
+  searchAllAssembliesForActions: 1
+  assembliesToSearch: []

@@ -1,0 +1,62 @@
+fileFormatVersion: 2
+guid: 4567c3453a8cd4461aa6391d08366372
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - Final_Monologue-Start-0
+  - Final_Monologue-Start-1
+  - Final_Monologue-Start-2
+  - Final_Monologue-Start-3
+  - Final_Monologue-Start-4
+  - Final_Monologue-Start-5
+  - Final_Monologue-Start-6
+  - Final_Monologue-Start-7
+  - Final_Monologue-Start-8
+  - Final_Monologue-Start-9
+  - Final_Monologue-Start-10
+  - Final_Monologue-Start-11
+  - Final_Monologue-Start-12
+  - Final_Monologue-Start-13
+  - Final_Monologue-Start-14
+  - Final_Monologue-Start-15
+  - Final_Monologue-Start-16
+  - Final_Monologue-Start-17
+  - Final_Monologue-Start-18
+  - Final_Monologue-Start-19
+  - Final_Monologue-Start-20
+  - Final_Monologue-Start-21
+  - Final_Monologue-Start-22
+  - Final_Monologue-Start-23
+  - Final_Monologue-Start-24
+  - Final_Monologue-Start-25
+  - Final_Monologue-Start-26
+  - Final_Monologue-Start-27
+  - Final_Monologue-Start-28
+  - Final_Monologue-Start-29
+  - Final_Monologue-Start-30
+  - Final_Monologue-Start-31
+  - Final_Monologue-Start-32
+  - Final_Monologue-Start-33
+  - Final_Monologue-Start-34
+  - Final_Monologue-Start-35
+  - Final_Monologue-Start-36
+  - Final_Monologue-Start-37
+  - Final_Monologue-Start-38
+  - Final_Monologue-Start-39
+  - Final_Monologue-Start-40
+  - Final_Monologue-Start-41
+  - Final_Monologue-Start-42
+  - Final_Monologue-Start-43
+  - Final_Monologue-Start-44
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 4567c3453a8cd4461aa6391d08366372, type: 3}
+  localizations: []

@@ -1,0 +1,49 @@
+title: Start
+tags: 
+colorID: 0
+position: 789,336
+---
+...
+Thank you
+I didn't expect it to be this fast
+I thought the road was blocked...for the holiday
+
+[[You're right,I got a shorcut |ShortCut]]
+[[You like eggs? |Eggs]]
+===
+title: ShortCut
+tags: 
+colorID: 0
+position: 559,572
+---
+That's so cool.
+Can I get your worker number?
+I like to get my food fast, it just taste better when it's warm, right?
+Anyway, next time I will place order on you.
+
+[[Thanks man |END]]
+===
+title: Eggs
+tags: 
+colorID: 0
+position: 1046,577
+---
+Hmm? 
+...
+Right...
+I do like eggs...
+Anyway,thank you...
+...
+Hey kid...
+I'm fine with it, but it's just a good habit for this job
+The less you know about the things you delivered, the better.
+
+[[...I will remember that |END]]
+===
+title: END
+tags: 
+colorID: 0
+position: 780,801
+---
+Empty Text
+===

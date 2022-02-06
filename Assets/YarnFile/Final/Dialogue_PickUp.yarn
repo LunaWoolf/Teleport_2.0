@@ -1,0 +1,23 @@
+title: Start
+tags: 
+colorID: 0
+position: 347,698
+---
+Order 64, chicken over rice with mayonnaise...Oh, it’s you again!
+So you didn’t take my suggestion? Quit this job!!
+Go back to school! Or find an office job; you look smart enough to do something like that.
+Don't do this for some stupid music festival!
+I never loved the idea of that festival. 
+It’s not even close to the right time to celebrate.
+This city just needs to stay quiet for a while...
+Ah...anyway, here you go...
+You need to finish this anyway...
+You finish this order,
+you get home as soon as possible.
+I know there is no curfew anymore.
+ But the night is still the same in this city. 
+All I’m saying is, be safe, kid.
+<<CompleteQuest GameManager Order0154P>>
+<<CreateQuest GameManager Order0154 Order0154 Delivery/To/Green/Spot/Thrid/Floor>>
+<<MapAddPoint GameManager green>>
+===

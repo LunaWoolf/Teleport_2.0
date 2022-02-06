@@ -1,0 +1,35 @@
+title: Start
+tags: 
+colorID: 0
+position: 40,-85
+---
+Genny: Good evening Brette!
+Genny: I'm about to ask if you are going to take a rest for today.
+Genny: By the way,
+Genny: How does the new Prosthetic Eye I gave you feel?
+<<ChangeCG Genny Happy>>
+Genny: I tried some new Biomaterial with this one! I'm collecting data right now and I feel that my data will be the best in our lab…
+Genny: Okay I will stop there
+Genny: I know you are not interested in these.
+<<ChangeCG Genny Angry>>
+Genny: B U T, Remember!
+Genny: If anything feels weird, let me know and I will adjust some details.
+Genny: Don't try to fix it yourself, okay?
+Genny: I'm not blaming you for breaking the last one…
+Genny: If we could save some money on that, you can get the ticket faster
+Genny: There is only one month left!
+<<ChangeCG Genny Normal>>
+Genny: I heard that UnRead is going to be the last one in row for the main stage
+Genny: Can't believe that they make it so far in this city
+<<ChangeCG Genny Happy>>
+Genny: Anyway, It's time to go
+Genny: I have two papers due at midnight, but I will try to finish them before you get back.
+Genny: So we can watch a movie together!
+Genny: Remember I said that I tried to hack into that website. 
+Genny: I did it last night!
+Genny: And it has some good movies on it...
+Genny: Oh, I will also boil some water 
+Genny: so we can eat cup noodles when you're back.
+<<ChangeCG Genny Normal>>
+Genny: Be careful and stay safe!
+===

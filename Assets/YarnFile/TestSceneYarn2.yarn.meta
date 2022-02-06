@@ -1,0 +1,66 @@
+fileFormatVersion: 2
+guid: 117af9d7054af4e78a54001ea4dd0248
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - TestSceneYarn2-Start-0
+  - TestSceneYarn2-Start-1
+  - TestSceneYarn2-Start-2
+  - TestSceneYarn2-Start-3
+  - TestSceneYarn2-Start-4
+  - TestSceneYarn2-Start-5
+  - TestSceneYarn2-Start-6
+  - TestSceneYarn2-Start-7
+  - TestSceneYarn2-Start-8
+  - TestSceneYarn2-Start-9
+  - TestSceneYarn2-Start-10
+  - TestSceneYarn2-Start-11
+  - TestSceneYarn2-Start-12
+  - TestSceneYarn2-Start-13
+  - TestSceneYarn2-Start-14
+  - TestSceneYarn2-Start-15
+  - TestSceneYarn2-Start-16
+  - TestSceneYarn2-Start-17
+  - TestSceneYarn2-Start-18
+  - TestSceneYarn2-Start-19
+  - TestSceneYarn2-Start-20
+  - TestSceneYarn2-Start-21
+  - TestSceneYarn2-Start-22
+  - TestSceneYarn2-Start-23
+  - TestSceneYarn2-Start-24
+  - TestSceneYarn2-Start-25
+  - TestSceneYarn2-Start-26
+  - TestSceneYarn2-Start-27
+  - TestSceneYarn2-Start-28
+  - TestSceneYarn2-Start-29
+  - TestSceneYarn2-Start-30
+  - TestSceneYarn2-Start-31
+  - TestSceneYarn2-Start-32
+  - TestSceneYarn2-Start-33
+  - TestSceneYarn2-Start-34
+  - TestSceneYarn2-Start-35
+  - TestSceneYarn2-Start-36
+  - TestSceneYarn2-Start-37
+  - TestSceneYarn2-Start-38
+  - TestSceneYarn2-Start-39
+  - TestSceneYarn2-Start-40
+  - TestSceneYarn2-Start-41
+  - TestSceneYarn2-Start-42
+  - TestSceneYarn2-Start-43
+  - TestSceneYarn2-Start-44
+  - TestSceneYarn2-Start-45
+  - TestSceneYarn2-Start-46
+  - TestSceneYarn2-Start-47
+  - TestSceneYarn2-Start-48
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 117af9d7054af4e78a54001ea4dd0248, type: 3}
+  localizations: []
